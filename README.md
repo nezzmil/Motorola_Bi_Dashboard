@@ -36,13 +36,7 @@ An interactive **Power BI** dashboard built to analyze Motorola retail phone sal
 - **DAX Measures** for KPIs and calculations
 - Interactive filters for **Brand**, **Payment Method**, **City**, **Time**
 
----
 
-## 📂 Files
-- `Motorola_dashboard.pbix` — Power BI file
-- `Motorola_dashboard.pdf` — Dashboard snapshot
-
----
 
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](<img width="1558" height="903" alt="Screenshot 2025-08-08 091054" src="https://github.com/user-attachments/assets/e2e101f4-a554-4e96-b00c-e72fd22851a3" />
