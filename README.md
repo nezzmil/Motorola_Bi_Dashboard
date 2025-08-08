@@ -45,7 +45,8 @@ An interactive **Power BI** dashboard built to analyze Motorola retail phone sal
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](file:///C:/Users/czchr/OneDrive/Desktop/PROJECT/power%20bi/MOTOROLA/Motorola_dashboard.pdf)
+![Dashboard Screenshot](<img width="1558" height="903" alt="Screenshot 2025-08-08 091054" src="https://github.com/user-attachments/assets/e2e101f4-a554-4e96-b00c-e72fd22851a3" />
+)
 
 
 
